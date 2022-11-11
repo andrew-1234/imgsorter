@@ -7,6 +7,6 @@ Contributions, ideas, issues, are more than welcome. If you would like to contri
 3. Or else provide a clear outlines on what your changes address
 4. Issue a pull request!
 
-Report any issues or new feature requests [here]([https://github.com/andrew-1234/imgsortR/issues)](https://github.com/andrew-1234/imgsorter/issues).
+Report any issues or new feature requests [here](https://github.com/andrew-1234/imgsortR/issues).
 
 Thanks!
