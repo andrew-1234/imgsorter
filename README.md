@@ -14,6 +14,7 @@ Image sorting based on keywords with python.
 2. Prompt will ask for the name of your images folder (or just press enter to use the
 default name `images`)
 3. Images are sorted! See the demo below:
+
 https://user-images.githubusercontent.com/22015718/201282281-98d41876-3805-4a92-b26f-b4bd71de6d1a.mp4
 
 **Note**: images are only copied, not deleted. 
