@@ -36,7 +36,9 @@ I use the DALL-E 2 Image Downloader extension in chrome to download the image
 results of a prompt, and the file names inherit some of the prompt keywords.
 Any files you download like this will be ready to sort. 
 
-This is my first time using python. Similar things already exist for sure, and
+Beware 💀 this is my first time using python. Similar things already exist for sure, and
 its probably a very inefficient script, but I'm looking for any feedback,
 contributions, new features, etc! 
 
+### Credits
+The code to clean up text tokens is from KahEm Chu (2021) "Text Processing in Python", source: https://towardsdatascience.com/text-processing-in-python-29e86ea4114c
